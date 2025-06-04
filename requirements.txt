@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+openai
+pyinstaller  # only needed to build Windows executable
+requests-cache
+PyQt5
+PyQtWebEngine
