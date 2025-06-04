@@ -1,4 +1,5 @@
 # GeroGPT-Browser
+# A Browser that use only ChatGPT to search, buy, view, all!
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
