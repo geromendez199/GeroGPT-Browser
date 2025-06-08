@@ -31,3 +31,7 @@
 </div>
 
 ###
+
+## FNF Engine HTML Demo
+This repository now includes a small Friday Night Funkin' inspired demo using HTML, CSS and JavaScript.
+Open `index.html` in a browser to try it out.
